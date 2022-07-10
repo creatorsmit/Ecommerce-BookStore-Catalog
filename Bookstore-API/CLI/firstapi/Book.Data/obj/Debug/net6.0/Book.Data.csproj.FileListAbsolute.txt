@@ -1,0 +1,14 @@
+F:\tatvasoft\API\CLI\firstapi\Book.Data\bin\Debug\net6.0\Book.Data.deps.json
+F:\tatvasoft\API\CLI\firstapi\Book.Data\bin\Debug\net6.0\Book.Data.runtimeconfig.json
+F:\tatvasoft\API\CLI\firstapi\Book.Data\bin\Debug\net6.0\Book.Data.dll
+F:\tatvasoft\API\CLI\firstapi\Book.Data\bin\Debug\net6.0\Book.Data.pdb
+F:\tatvasoft\API\CLI\firstapi\Book.Data\obj\Debug\net6.0\Book.Data.csproj.AssemblyReference.cache
+F:\tatvasoft\API\CLI\firstapi\Book.Data\obj\Debug\net6.0\Book.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\tatvasoft\API\CLI\firstapi\Book.Data\obj\Debug\net6.0\Book.Data.AssemblyInfoInputs.cache
+F:\tatvasoft\API\CLI\firstapi\Book.Data\obj\Debug\net6.0\Book.Data.AssemblyInfo.cs
+F:\tatvasoft\API\CLI\firstapi\Book.Data\obj\Debug\net6.0\Book.Data.csproj.CoreCompileInputs.cache
+F:\tatvasoft\API\CLI\firstapi\Book.Data\obj\Debug\net6.0\Book.Data.dll
+F:\tatvasoft\API\CLI\firstapi\Book.Data\obj\Debug\net6.0\refint\Book.Data.dll
+F:\tatvasoft\API\CLI\firstapi\Book.Data\obj\Debug\net6.0\Book.Data.pdb
+F:\tatvasoft\API\CLI\firstapi\Book.Data\obj\Debug\net6.0\Book.Data.genruntimeconfig.cache
+F:\tatvasoft\API\CLI\firstapi\Book.Data\obj\Debug\net6.0\ref\Book.Data.dll

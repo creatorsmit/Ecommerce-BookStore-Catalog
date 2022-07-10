@@ -1,0 +1,5 @@
+F:\tatvasoft\API\CLI\firstapi\Book.repositery\obj\Debug\net6.0\Book.repositery.csproj.AssemblyReference.cache
+F:\tatvasoft\API\CLI\firstapi\Book.repositery\obj\Debug\net6.0\Book.repositery.GeneratedMSBuildEditorConfig.editorconfig
+F:\tatvasoft\API\CLI\firstapi\Book.repositery\obj\Debug\net6.0\Book.repositery.AssemblyInfoInputs.cache
+F:\tatvasoft\API\CLI\firstapi\Book.repositery\obj\Debug\net6.0\Book.repositery.AssemblyInfo.cs
+F:\tatvasoft\API\CLI\firstapi\Book.repositery\obj\Debug\net6.0\Book.repositery.csproj.CoreCompileInputs.cache

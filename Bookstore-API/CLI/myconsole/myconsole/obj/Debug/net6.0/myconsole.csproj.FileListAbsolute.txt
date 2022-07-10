@@ -1,0 +1,16 @@
+F:\tatvasoft\API\CLI\myconsole\myconsole\bin\Debug\net6.0\myconsole.deps.json
+F:\tatvasoft\API\CLI\myconsole\myconsole\bin\Debug\net6.0\myconsole.dll
+F:\tatvasoft\API\CLI\myconsole\myconsole\bin\Debug\net6.0\myconsole.pdb
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\myconsole.csproj.AssemblyReference.cache
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\myconsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\myconsole.AssemblyInfoInputs.cache
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\myconsole.AssemblyInfo.cs
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\myconsole.csproj.CoreCompileInputs.cache
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\myconsole.dll
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\refint\myconsole.dll
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\myconsole.pdb
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\ref\myconsole.dll
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\staticwebassets.build.json
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\staticwebassets.development.json
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\scopedcss\bundle\myconsole.styles.css
+F:\tatvasoft\API\CLI\myconsole\myconsole\obj\Debug\net6.0\myconsole.MvcApplicationPartsAssemblyInfo.cache
